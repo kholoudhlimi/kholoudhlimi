@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
- Hi <br>je suis kholoudhlimi Développeuse Full Stack passionnée par le développement et toujours curieuse, je cherche constamment à perfectionner mes compétences en codage.<br><br>🔭 Je travaille actuellement sur TypeScript.<br>🌱 J'apprends actuellement «TypeScript ».<br>📫 Comment me joindre :📱 kholud.hlimi@gmail.com .<br>🌐 Réseaux sociaux
+  <br>je suis kholoudhlimi Développeuse Full Stack passionnée par le développement et toujours curieuse, je cherche constamment à perfectionner mes compétences en codage.<br><br>🔭 Je travaille actuellement sur TypeScript.<br>🌱 J'apprends actuellement «TypeScript ».<br>📫 Comment me joindre :📱 kholud.hlimi@gmail.com .<br>🌐 Réseaux sociaux
 
 
 ## 🌐 Socials:
